@@ -9,14 +9,17 @@
 ---
 
 #### 다루는 것
-- **설계**: Altium Designer (PCB), 3D 모델링
-- **임베디드**: Arduino, Raspberry Pi Pico (RP2040), ESP32
-- **소프트웨어**: Python, PyQt
-- **제작**: 직접 손으로 조립·가공·검증
+
+- **설계**: Altium Designer / KiCAD (PCB), Fusion / SolidWorks (3D)
+- **임베디드**: Arduino, Raspberry Pi, ESP32, STM32, Jetson
+- **소프트웨어**: C, C++, C#, Python, JS
+- **제작**: 수작업 (공구, Soldering)
 
 #### 대표 작업
+
 아래 핀 고정된 프로젝트들을 확인해 주세요.
 설계부터 PCB, 펌웨어까지 직접 진행한 작업들입니다.
+(물론 여기 올라오지 않은 것들도 있습니다.)
 
 ---
 
