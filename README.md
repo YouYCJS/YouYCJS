@@ -1,4 +1,4 @@
-# 안녕하세요, 유연철입니다 👋
+# 안녕하세요, 꿈이 메이커인 사람입니다. 👋
 
 **3D Design · PCB · Embedded · Software · Fabrication**
 
